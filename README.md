@@ -39,10 +39,13 @@ This project showcases the development of a star-schema-based sales analysis dat
 
 ## Photos 
 ### 1. Retail Sales Data Mart
-![Retail_Data_Mart](https://github.com/ahmedhattem11/ETL-Data-Stage/assets/87239054/6b5e650d-dea5-4e1f-9704-10b850914b03)
+![Data Stage Project 1 ](https://github.com/MohamedKaram97/ETL-Data-Stage/assets/154819767/4ac00686-a9ef-41b1-bd8a-521ac82deafc)
+![Data Stage Table Schema](https://github.com/MohamedKaram97/ETL-Data-Stage/assets/154819767/44bbfbdd-5c88-4530-9f35-2889200a8849)
+
 
 ### 2. Activation Sales Data Mart
-![Activation_Sales_Data_Mart](https://github.com/ahmedhattem11/ETL-Data-Stage/assets/87239054/9c942574-058e-40fa-a3f4-2ee3065746e4)
+![Data Stage Project 2 ](https://github.com/MohamedKaram97/ETL-Data-Stage/assets/154819767/8390379f-ed3c-4b4b-8124-1facbfce8404)
+
 
 ## Conclusion
 This project illustrates the end-to-end process of building a star-schema-based sales analysis data warehouse using IBM InfoSphere DataStage. It covers the modeling process, ETL development, and the creation of data marts to address specific business requirements within the retail industry scenario.
