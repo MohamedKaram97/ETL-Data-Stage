@@ -36,12 +36,11 @@ This project showcases the development of a star-schema-based sales analysis dat
 ## Files
 ### [Physical Data Model]
 ![image](https://github.com/ahmedhattem11/ETL-Data-Stage/assets/87239054/cea5819d-936d-4e03-95f1-05c9f99fda79)
+![Data Stage Table Schema](https://github.com/MohamedKaram97/ETL-Data-Stage/assets/154819767/44bbfbdd-5c88-4530-9f35-2889200a8849)
 
 ## Photos 
 ### 1. Retail Sales Data Mart
 ![Data Stage Project 1 ](https://github.com/MohamedKaram97/ETL-Data-Stage/assets/154819767/4ac00686-a9ef-41b1-bd8a-521ac82deafc)
-![Data Stage Table Schema](https://github.com/MohamedKaram97/ETL-Data-Stage/assets/154819767/44bbfbdd-5c88-4530-9f35-2889200a8849)
-
 
 ### 2. Activation Sales Data Mart
 ![Data Stage Project 2 ](https://github.com/MohamedKaram97/ETL-Data-Stage/assets/154819767/8390379f-ed3c-4b4b-8124-1facbfce8404)
