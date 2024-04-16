@@ -1,0 +1,8 @@
+"CustomerID","customername","gender","customertype","Profit","Bonus"
+17850,"DAVID","Male","citizen","110",13440000
+13047,"ALEX","Male","citizen","110",12540000
+12583,"RUBIAN","Female","citizen","110",3840000
+13748,"NANCY","Female","citizen","110",4440000
+17809,"JESSICA","Female","citizen","110",4515000
+15311,"MARIA","Female","citizen","110",3950000
+12431,"ROSE","Female","citizen","110",44000000

@@ -1,0 +1,16 @@
+Stockid,name,rating,location,noofemployees
+536365,NeimanMarcus,4,UnitedKingdom,4000
+536366,BergdorfGoodman,3,UnitedKingdom,3200
+536368,Nordstrom,4,UnitedKingdom,1000
+536367,NordstromRack,4,UnitedKingdom,5000
+536369,HudsonBayCompany,4,UnitedKingdom,6000
+536370,SaksFifthAvenue,4,France,4000
+536371,SaksOff5th,4,UnitedKingdom,2000
+536372,Bloomingdales,3,UnitedKingdom,2300
+536373,BeallsInc,5,UnitedKingdom,6000
+536374,VonMaur,2,UnitedKingdom,500
+536375,LaVogueDepartmentStore,5,UnitedKingdom,7000
+536376,KrausDepartmentStore,5,UnitedKingdom,7000
+536377,LeaderDepartmentStore,5,UnitedKingdom,2000
+536378,Murphy,5,UnitedKingdom,10000
+536381,FlemingtonDepartmentStore,3,Australia,8000

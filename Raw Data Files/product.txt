@@ -1,0 +1,4 @@
+productid,productname,Category,SubCategory,Sales,Quantity
+1,BushSomersetCollectionBookcase,Furniture,Bookcases,26196,456
+2,CiscoSPA501GIPPhone,Technology,Phones,6196,147
+3,Newell22,OfficeSupplies,Art,193,700

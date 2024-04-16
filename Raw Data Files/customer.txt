@@ -1,0 +1,11 @@
+CustomerID,customername,SpendingScore,AnnualIncomek,gender,age,customertype
+17850,DAVID,96,1400,Male,32,citizen
+13047,ALEX,66,1900,Male,22,citizen
+12583,RUBIAN,32,1200,Female,22,citizen
+13748,NANCY,37,1200,Female,33,citizen
+17851,GEORGE,39,1500,Male,45,notelagiable
+15291,RACHEL,96,9000,Male,28,foriegn
+14688,ROMARIO,30,1000,Male,29,foriegn
+17809,JESSICA,35,1290,Female,19,citizen
+15311,MARIA,79,500,Female,20,citizen
+12431,ROSE,88,5000,Female,30,citizen
