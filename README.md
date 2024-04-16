@@ -35,7 +35,6 @@ This project showcases the development of a star-schema-based sales analysis dat
 
 ## Files
 ### [Physical Data Model]
-![image](https://github.com/ahmedhattem11/ETL-Data-Stage/assets/87239054/cea5819d-936d-4e03-95f1-05c9f99fda79)
 ![Data Stage Table Schema](https://github.com/MohamedKaram97/ETL-Data-Stage/assets/154819767/44bbfbdd-5c88-4530-9f35-2889200a8849)
 
 ## Photos 
